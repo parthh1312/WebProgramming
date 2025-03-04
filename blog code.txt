@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>The Amazing Konark Temple</title>
+    <style>
+        body {
+            
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #080505;
+            margin: 0;
+            padding: 0;
+        }
+               h1 {
+            font-size: 2.5em;
+        }
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0056b3;
+        }
+        p {
+            font-size: 1.1em;
+        }
+        ul {
+            list-style-type: square;
+            margin-left: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>The Amazing Konark Temple</h1>
+</header>
+
+<div class="content">
+    <h2>What is Konark Temple?</h2>
+    <p>The Konark Temple is a very famous temple in India. It is in a place called Konark, in the state of Odisha, near the sea. This temple is special because it is shaped like a huge chariot, which is a type of old cart used by kings. The temple was built in the 13th century by King Narasimhadeva I, and it is dedicated to the Sun God, Surya.It was one of the earliest centres of Sun worship in India. Built around 1250 in the reign of King Narasingha Deva (1238-64), it marks the apogee of the wave of foundations dedicated to the Sun God Surya; the entire temple was conceived as a chariot of the Sun God with a set of spokes and elaborate carvings</p>
+    <img src="konark.jpg" alt="Konark Temple" />
+
+    <h2>What's Inside the Temple?</h2>
+    <p>The Konark Temple is full of beautiful stone carvings. These carvings show stories from Hindu mythology. You can see pictures of animals, gods, dancers, and even everyday life from that time. There used to be a big idol of the Sun God inside, but it is not there anymoreA Hindu temple is a symbolic house, the seat and dwelling of Hindu gods. It is a structure designed to bring human beings and gods together according to Hindu faith. Inside its garbhagriha innermost sanctum, a Hindu temple contains a murti or Hindu god's image.</p>
+    <img src="ccimage-5171714638_820eb482bb_o.webp" alt="Inside the Konark Temple" />
+
+    <h2>The Huge Wheels</h2>
+    <p>The most amazing thing about the temple is the 12 giant stone wheels around it. These wheels are like the wheels of a chariot and are very detailed. They are meant to show how the sun moves across the sky. The wheels are also a symbol of time, showing how the sun rises and sets each day Wheel of Konark Sun Temple: A view of the 'Great Wheel of Konark', primary attraction of the Sun Temple in Konark, Odisha. The entire temple is made in the form of a huge chariot of Sun God with 12 pairs of wheels. The art work of every wheel is different, symbolic and have been interpreted as the 'Sun Dial.</p>
+    <img src="Konark-Sun-Temple-Wheel.webp" alt="Giant Wheels of Konark Temple" />
+
+   
+
+
+   
